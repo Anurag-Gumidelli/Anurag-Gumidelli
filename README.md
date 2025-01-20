@@ -16,6 +16,8 @@
 
 🎓 **Education**: Bachelor of Science in Computer Science, University of Massachusetts Amherst (Spring 2023).
 
+💼 **Work**: I am a Software Engineer at Ciena, focusing on building a software platform for packet forwarding.
+
 🧩 **Hobbies & Interests**:
 - Solving puzzles and playing board games.
 - Exploring Networking and Cloud technologies.
