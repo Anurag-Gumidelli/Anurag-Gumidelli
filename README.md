@@ -15,3 +15,18 @@
     <img align='center' src='https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fanurag_gummi%2Fstats' />
   </a>
 </p>
+
+
+<h1 align="center">Hi, I'm Anurag! 👋</h1>
+
+🎓 **Education**: Bachelor of Science in Computer Science, University of Massachusetts Amherst (Spring 2023).
+
+🧩 **Hobbies & Interests**:
+- Solving puzzles and playing board games.
+- Exploring Networking and Cloud technologies.
+- Enjoying chess, Pokémon, and learning Japanese on Duolingo.
+- Recently started bouldering.
+
+🤝 **Collaboration**: Open to exciting projects and new opportunities. Let’s connect!
+
+📬 **Get in Touch**: Reach out to me on [LinkedIn](#) to chat or learn more about me!
