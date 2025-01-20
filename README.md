@@ -26,7 +26,7 @@
 
 🤝 **Collaboration**: Open to exciting projects and new opportunities. Let’s connect!
 
-📬 **Get in Touch**: Reach out to me on [LinkedIn](#) to chat, learn more about me, or even challenge me to a game of chess!
+📬 **Get in Touch**: Reach out to me on [LinkedIn](https://www.linkedin.com/in/anurag-gumidelli/) to chat, learn more about me, or even challenge me to a game of chess!
 
 <p align='center'>
   <a href='https://www.chess.com/member/anurag_gummi'>
