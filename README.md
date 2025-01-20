@@ -10,11 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align='center'>
-  <a href='https://www.chess.com/member/anurag_gummi'>
-    <img align='center' src='https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fanurag_gummi%2Fstats' />
-  </a>
-</p>
 
 
 <h1 align="center">Hi, I'm Anurag! 👋</h1>
@@ -29,4 +24,10 @@
 
 🤝 **Collaboration**: Open to exciting projects and new opportunities. Let’s connect!
 
-📬 **Get in Touch**: Reach out to me on [LinkedIn](#) to chat or learn more about me!
+📬 **Get in Touch**: Reach out to me on [LinkedIn](#) to chat, learn more about me, or even challenge me to a game of chess!
+
+<p align='center'>
+  <a href='https://www.chess.com/member/anurag_gummi'>
+    <img align='center' src='https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fanurag_gummi%2Fstats' />
+  </a>
+</p>
