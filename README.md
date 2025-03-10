@@ -21,7 +21,7 @@
 🧩 **Hobbies & Interests**:
 - Solving puzzles and playing board games.
 - Exploring Networking and Cloud technologies.
-- Enjoying chess, Pokémon, and learning Japanese on Duolingo.
+- Enjoying chess, Pokémon, and learning Japanese.
 - Recently started bouldering.
 
 🤝 **Collaboration**: Open to exciting projects and new opportunities. Let’s connect!
